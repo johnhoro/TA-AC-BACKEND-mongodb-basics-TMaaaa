@@ -1,6 +1,6 @@
 writeCode
 
-Write code to:-
+Write code to :-
 
 - create a database named `sports`.
 - list all databases present in local mongod server.

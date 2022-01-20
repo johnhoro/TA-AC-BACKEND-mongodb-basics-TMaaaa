@@ -15,7 +15,7 @@ host, username and password are optional fields.
 - --db: database name
 - --collection: Collection name
 - --file: file location
-- --jsonArray: Passed an array of json objects
+- --jsonArray: Passed an array of json Objects
 
 ## BLOCK-writeCode
 
